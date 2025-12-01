@@ -30,7 +30,7 @@ Coming soon!
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
+
 
 # Install dependencies
 pip install -r requirements.txt
