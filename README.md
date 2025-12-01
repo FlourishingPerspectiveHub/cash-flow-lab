@@ -11,7 +11,6 @@ Educational simulator for exploring:
 - Debt service coverage
 - Operational risk scenarios
 
-⚠️ **Educational tool only** - Results are simplified estimates. Always verify calculations and consult professionals before making financial decisions.
 
 ## 🚀 Features
 
@@ -62,4 +61,4 @@ Feedback and suggestions welcome!
 
 ---
 
-**Made for learning** | Always verify with professionals
+**Made for learning and exploration**
