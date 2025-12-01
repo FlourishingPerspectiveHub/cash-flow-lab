@@ -22,8 +22,7 @@ Educational simulator for exploring:
 
 ## 🌐 Live Demo
 
-[Try Cash Flow Lab] 
-Coming soon!
+<a href="https://cash-flow-lab.streamlit.app/" target="_blank" rel="noopener noreferrer">🚀 Try it here</a>
 
 
 ## 💻 Run Locally
